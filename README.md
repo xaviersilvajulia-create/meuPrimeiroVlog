@@ -1,6 +1,6 @@
 # meuPrimeiroVlog
 
-meu nome é julia. e esse é o  meu primeiro vlog aqui.
+meu nome é julia. E esse é o  meu primeiro vlog aqui.
 ainda não é um hoobie ou profissão, mas estou amando programar!
 e eu amo ter alguns hoobies como tocar instrumentos, jogar tenis, asistir a filmes de ficção científica, ler livros...
 
