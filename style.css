@@ -1,16 +1,13 @@
 *{
-
     margin: 0;
     padding: 0;
 }
 
 body{
-
     background-color: dodgerblue;
     color: cyan;
     margin: 0px;
     margin:-bottom: 100px;
-
 }
 
 header{
@@ -19,6 +16,19 @@ header{
   text-align: center;
   padding: 20px;
 }
+ main{
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 10px;
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+      align
+
+
+
+
+
+ }
 
 .container{
 
