@@ -4,15 +4,15 @@
 }
 
 body{
-    background-color: rgb(200, 236, 202);
+    background-color: rgb(45, 100, 28);
     color: rgb(45, 100, 28);
     margin: 0px;
     margin:-bottom: 100px;
 }
 
 header{
-  background-color: rgb(141, 219, 154);
-  color: rgb(106, 214, 142);
+  background-color: rgb(70, 182, 88);
+  color: rgb(70, 182, 100);
   text-align: center;
   padding: 20px;
 
@@ -34,11 +34,11 @@ header{
      align-items: center;
      justify-content: center;
      margin-top: 50px;
-     width: 80%;
+     width: 50%;
 }
 #limão{
 
-       width: 80%;
+       width: 50%;
        height: auto;
        border-radius: 10px;
        margin-top: 20px;
