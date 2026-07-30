@@ -4,15 +4,15 @@
 }
 
 body{
-    background-color: rgb(45, 100, 28);
+    background-color: rgb(104, 219, 69);
     color: rgb(45, 100, 28);
     margin: 0px;
     margin-bottom: 100px;
 }
 
 header{
-  background-color: rgb(70, 182, 88);
-  color: rgb(70, 182, 100);
+  background-color: rgb(104, 219, 69);
+  color: rgb(45, 100, 28);
   text-align: center;
   padding: 20px;
 
