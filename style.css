@@ -12,7 +12,7 @@ body{
 
 header{
   background-color: rgb(141, 219, 154);
-  color: rgb(169, 201, 177);
+  color: rgb(106, 214, 142);
   text-align: center;
   padding: 20px;
 
@@ -34,11 +34,11 @@ header{
      align-items: center;
      justify-content: center;
      margin-top: 50px;
-     width: 100%;
+     width: 80%;
 }
 #limão{
 
-       width: 100%;
+       width: 80%;
        height: auto;
        border-radius: 10px;
        margin-top: 20px;
